@@ -1,0 +1,14 @@
+C:\Users\DITO\source\repos\pbo-module-task\bin\Debug\net8.0\pbo-module-task.exe
+C:\Users\DITO\source\repos\pbo-module-task\bin\Debug\net8.0\pbo-module-task.deps.json
+C:\Users\DITO\source\repos\pbo-module-task\bin\Debug\net8.0\pbo-module-task.runtimeconfig.json
+C:\Users\DITO\source\repos\pbo-module-task\bin\Debug\net8.0\pbo-module-task.dll
+C:\Users\DITO\source\repos\pbo-module-task\bin\Debug\net8.0\pbo-module-task.pdb
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.AssemblyInfoInputs.cache
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.AssemblyInfo.cs
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.csproj.CoreCompileInputs.cache
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.dll
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\refint\pbo-module-task.dll
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.pdb
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\pbo-module-task.genruntimeconfig.cache
+C:\Users\DITO\source\repos\pbo-module-task\obj\Debug\net8.0\ref\pbo-module-task.dll
